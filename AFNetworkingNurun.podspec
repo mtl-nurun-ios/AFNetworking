@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.summary  = 'A delightful iOS and OS X networking framework.'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me', 'Scott Raymond' => 'sco@gowalla.com' }
-  s.source   = { :git => 'https://github.com/mtl-nurun-ios/AFNetworking.git', :commit => '538127a8406b405622041aa68a0c6f30358a977d' }
+  s.source   = { :git => 'https://github.com/mtl-nurun-ios/AFNetworking.git', :commit => '7a9d9ceecd5b02d6a8a993cdbaabc42c8f256fc8' }
   s.source_files = 'AFNetworking'
   s.requires_arc = true
 
